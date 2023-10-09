@@ -20,3 +20,12 @@ SparklingTheme is meticulously designed to transform your coding environment int
 - **Regular Updates**: Expect ongoing support and enhancements to keep your coding environment fresh and in sync with the latest design trends.
 
 Elevate your coding experience and let your creativity shine with SparklingTheme for VS Code. Explore a world where elegance meets efficiency, and watch your code sparkle like never before.
+
+## Live View:
+
+![Sparkling Theme](https://github.com/subhadipbhowmik/Sparkling-Theme-VS-Code/assets/57017965/ccf51156-3bd7-4007-9d46-59da2870bb5e)
+
+## Add Colour to Your VS Code
+
+> Install now
+> [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ShubhadipBhowmik.sparkling-theme)
