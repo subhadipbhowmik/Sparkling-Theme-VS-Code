@@ -1,0 +1,37 @@
+{
+  "name": "sparkling-theme",
+  "displayName": "Sparkling Theme",
+  "description": "Sparkling Theme for VS Code: Sleek, dark elegance with vibrant accents for efficient, stylish coding.",
+  "publisher": "ShubhadipBhowmik",
+  "keywords": [
+    "theme",
+    "Dark Theme",
+    "Dark",
+    "Night Mode",
+    "Sparkling",
+    "Sparkling Theme",
+    "Syntax Highlighting",
+    "Editor Theme"
+  ],
+  "icon": "icon.png",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/subhadipbhowmik/Sparkling-Theme-VS-Code"
+  },
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sparkling Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sparkling Theme-color-theme.json"
+      }
+    ]
+  }
+}
