@@ -28,4 +28,8 @@ Elevate your coding experience and let your creativity shine with SparklingTheme
 ## Add Colour to Your VS Code
 
 > Install now
+<<<<<<< HEAD
 > [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ShubhadipBhowmik.sparkling-theme)
+=======
+[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ShubhadipBhowmik.sparkling-theme)
+>>>>>>> 88bed84644a260c1af2fd7264048f1b7b3bc1962
